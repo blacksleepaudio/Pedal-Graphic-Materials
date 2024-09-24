@@ -1,5 +1,7 @@
 # PEDAL GRAPHIC MATERIALS AND PROCEDURE
-This is a walkthrough on how to prepare an artwork for pedal enclosure UV printing in Adobe Illustrator. Make sure to **create everything in CMYK**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F73333&width=435&lines=From+artwork+to+UV+printable+layout;Create+everything+in+CMYK!)](https://git.io/typing-svg)
+
+<br>
 
 ## Preparing the artwork
 
