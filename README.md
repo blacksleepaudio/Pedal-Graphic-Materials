@@ -12,7 +12,7 @@ This is a walkthrough on how to prepare an artwork for pedal enclosure UV printi
 
 <br>
 
-### 2. Once everything looks good, create a separate savefile to preserve the original artwork.
+### 2. Once everything looks good, create a separate save file to preserve the original artwork.
 *I usually just add "UV" at the end of the filename to make it distinguishable.*
 
 ![image](https://github.com/user-attachments/assets/63010645-e946-4029-8128-8b7b9772cb85)
@@ -99,6 +99,13 @@ A. Click the bookshelf icon > other library > Select RolandVersaWorks (located i
 
 ### 12. Save as PDF, then you're done! 🎉🎉🎉
 *Tayda only accepts PDF files*
+
+
+<br>
+
+## TO FOLLOW:
+- Importing UV File to Tayda site
+- Creating drill layout
 
 
 
