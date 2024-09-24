@@ -76,7 +76,7 @@ A. Click the bookshelf icon > other library > Select RolandVersaWorks (located i
 
 <br>
 
-### 10. Apply RDGW_WHITE on the duplicate layer, then rename layer to "WHITE".
+### 10. Apply RDG_WHITE on the duplicate layer, then rename layer to "WHITE".
 
 ![image](https://github.com/user-attachments/assets/7b1a2d4e-cc88-4e2c-8a0c-3f17d87041b7)
 
